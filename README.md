@@ -6,16 +6,20 @@ the code of star-infinity<br>
 
 ## Commands
 The commands code<br>
+### main_cmd.py
 > 8ball<br>
 > discord_activity<br>
 > about<br>
-> rank<br>
 > ticket<br>
 > dm<br>
 > say<br>
 > dice<br>
 > userinfo<br>
+> help<br>
+### level.py
+> rank<br>
+### guild_cmd.py
 > ban<br>
 > kick<br>
 > server_info<br>
-> help<br>
+
