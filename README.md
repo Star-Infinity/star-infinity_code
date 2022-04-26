@@ -5,17 +5,17 @@ the code of star-infinity<br>
 > **All Rights Reserved by Star-Infinity Development Team**
 
 ## Commands
-The commands code
-> 8ball
-> discord_activity
-> about
-> rank
-> ticket
-> dm
-> say
-> dice
-> userinfo
-> ban
-> kick
-> server_info
-> help
+The commands code<br>
+> 8ball<br>
+> discord_activity<br>
+> about<br>
+> rank<br><br>
+> ticket<br>
+> dm<br>
+> say<br>
+> dice<br>
+> userinfo<br>
+> ban<br>
+> kick<br>
+> server_info<br>
+> help<br>
