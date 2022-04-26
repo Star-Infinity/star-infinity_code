@@ -2,7 +2,8 @@
 the code of star-infinity<br>
 
 ## Remember⚠
-> **All Rights Reserved by Star-Infinity Development Team**
+This is Star-Infinity Dev Team code's official code<br>
+**All Rights Reserved by Star-Infinity Development Team**
 
 ## Commands
 The commands code<br>
