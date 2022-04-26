@@ -9,7 +9,7 @@ The commands code<br>
 > 8ball<br>
 > discord_activity<br>
 > about<br>
-> rank<br><br>
+> rank<br>
 > ticket<br>
 > dm<br>
 > say<br>
