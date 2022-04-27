@@ -1,4 +1,4 @@
-# star-infinity-open_code
+# star-infinity open_code
 the code of star-infinity<br>
 
 ## Remember⚠
