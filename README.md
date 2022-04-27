@@ -1,5 +1,8 @@
 # star-infinity open_code
-the code of star-infinity<br>
+Welcome to Star-Infinity open code<br>
+This is a discord bot and using chinese<br>
+**Plz read the REMEMBER**
+
 
 ## Remember⚠
 This is Star-Infinity Dev Team code's official code<br>
