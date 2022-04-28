@@ -6,7 +6,7 @@ This is a discord bot and using chinese<br>
 
 ## Remember⚠
 This is Star-Infinity Dev Team code's official code<br>
-this Repository use [MID](https://github.com/Star-Infinity/star-infinity_code/blob/main/LICENSE) LICENSE<br>
+this Repository use [MIT](https://github.com/Star-Infinity/star-infinity_code/blob/main/LICENSE) LICENSE<br>
 **All Rights Reserved by Star-Infinity Development Team**
 
 ## Commands
