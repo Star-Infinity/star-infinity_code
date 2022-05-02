@@ -65,7 +65,7 @@ async def suggest(ctx):
         await ctx.respond("已經收到您的建議,感謝你的支持", ephemeral=True)
         async with aiohttp.ClientSession() as session:
             await session.post(
-                "https://discord.com/api/webhooks/952492467830263909/XM4nZWvapbCeGnwjLuW0CZbrLIZ_NmKjAs5iXNEerO_cyHCl2Ug0IorbydgkWMAApZ88",
+                "webhook url",
                 json={
                     "content": message,
                     "username": f"{ctx.author.name} 的建議",
